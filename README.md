@@ -4,4 +4,4 @@ This scheme optimizes preprocessing of data: first of all, multiple threads prep
 
 Model is built in the PyTorch framework, more information about architecture and training cycle can be found in Notebook.
 
-More information about competition and data itself can be found in attached file 'Competetion_info'.
+More information about competition and data itself can be found in attached file 'Competetion_info.md'(in Russian).
